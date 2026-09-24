@@ -13,7 +13,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=white)]()
 [![Keras](https://img.shields.io/badge/Keras-161b22?style=for-the-badge&logo=Keras&logoColor=white)]()
 [![Plotly](https://img.shields.io/badge/Plotly-161b22?style=for-the-badge&logo=plotly&logoColor=white)]()
-<br/>
 [![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white)]()
